@@ -60,7 +60,7 @@ This configuration file tells Vercel how to build and route your FastAPI app:
 2. **Deploy**:
 
    ```bash
-   vercel
+   vercel .
    ```
 
    Follow the prompts to deploy your project.
